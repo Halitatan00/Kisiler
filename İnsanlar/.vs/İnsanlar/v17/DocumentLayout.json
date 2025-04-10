@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\Class\\\u0130nsanlar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B553F1-4D86-4825-822B-A2ABB49D339F}|\u0130nsanlar\\\u0130nsanlar.csproj|c:\\users\\halit\\desktop\\kurslar\\c#\\class\\\u0130nsanlar\\\u0130nsanlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B553F1-4D86-4825-822B-A2ABB49D339F}|\u0130nsanlar\\\u0130nsanlar.csproj|solutionrelative:\u0130nsanlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B553F1-4D86-4825-822B-A2ABB49D339F}|\u0130nsanlar\\\u0130nsanlar.csproj|c:\\users\\halit\\desktop\\kurslar\\c#\\class\\\u0130nsanlar\\\u0130nsanlar\\kad\u0131n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B553F1-4D86-4825-822B-A2ABB49D339F}|\u0130nsanlar\\\u0130nsanlar.csproj|solutionrelative:\u0130nsanlar\\kad\u0131n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B553F1-4D86-4825-822B-A2ABB49D339F}|\u0130nsanlar\\\u0130nsanlar.csproj|c:\\users\\halit\\desktop\\kurslar\\c#\\class\\\u0130nsanlar\\\u0130nsanlar\\erkek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B553F1-4D86-4825-822B-A2ABB49D339F}|\u0130nsanlar\\\u0130nsanlar.csproj|solutionrelative:\u0130nsanlar\\erkek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B553F1-4D86-4825-822B-A2ABB49D339F}|\u0130nsanlar\\\u0130nsanlar.csproj|c:\\users\\halit\\desktop\\kurslar\\c#\\class\\\u0130nsanlar\\\u0130nsanlar\\\u0130nsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B553F1-4D86-4825-822B-A2ABB49D339F}|\u0130nsanlar\\\u0130nsanlar.csproj|solutionrelative:\u0130nsanlar\\\u0130nsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kad\u0131n.cs",
+              "DocumentMoniker": "C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\Class\\\u0130nsanlar\\\u0130nsanlar\\Kad\u0131n.cs",
+              "RelativeDocumentMoniker": "\u0130nsanlar\\Kad\u0131n.cs",
+              "ToolTip": "C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\Class\\\u0130nsanlar\\\u0130nsanlar\\Kad\u0131n.cs",
+              "RelativeToolTip": "\u0130nsanlar\\Kad\u0131n.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:43:10.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Erkek.cs",
+              "DocumentMoniker": "C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\Class\\\u0130nsanlar\\\u0130nsanlar\\Erkek.cs",
+              "RelativeDocumentMoniker": "\u0130nsanlar\\Erkek.cs",
+              "ToolTip": "C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\Class\\\u0130nsanlar\\\u0130nsanlar\\Erkek.cs",
+              "RelativeToolTip": "\u0130nsanlar\\Erkek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:43:01.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u0130nsan.cs",
+              "DocumentMoniker": "C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\Class\\\u0130nsanlar\\\u0130nsanlar\\\u0130nsan.cs",
+              "RelativeDocumentMoniker": "\u0130nsanlar\\\u0130nsan.cs",
+              "ToolTip": "C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\Class\\\u0130nsanlar\\\u0130nsanlar\\\u0130nsan.cs",
+              "RelativeToolTip": "\u0130nsanlar\\\u0130nsan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:42:51.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\Class\\\u0130nsanlar\\\u0130nsanlar\\Program.cs",
+              "RelativeDocumentMoniker": "\u0130nsanlar\\Program.cs",
+              "ToolTip": "C:\\Users\\Halit\\Desktop\\Kurslar\\C#\\Class\\\u0130nsanlar\\\u0130nsanlar\\Program.cs",
+              "RelativeToolTip": "\u0130nsanlar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:42:01.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

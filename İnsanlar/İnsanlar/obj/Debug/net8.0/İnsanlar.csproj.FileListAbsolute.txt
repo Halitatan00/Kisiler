@@ -1,0 +1,14 @@
+C:\Users\Halit\Desktop\Kurslar\C#\Class\İnsanlar\İnsanlar\bin\Debug\net8.0\İnsanlar.exe
+C:\Users\Halit\Desktop\Kurslar\C#\Class\İnsanlar\İnsanlar\bin\Debug\net8.0\İnsanlar.deps.json
+C:\Users\Halit\Desktop\Kurslar\C#\Class\İnsanlar\İnsanlar\bin\Debug\net8.0\İnsanlar.runtimeconfig.json
+C:\Users\Halit\Desktop\Kurslar\C#\Class\İnsanlar\İnsanlar\bin\Debug\net8.0\İnsanlar.dll
+C:\Users\Halit\Desktop\Kurslar\C#\Class\İnsanlar\İnsanlar\bin\Debug\net8.0\İnsanlar.pdb
+C:\Users\Halit\Desktop\Kurslar\C#\Class\İnsanlar\İnsanlar\obj\Debug\net8.0\İnsanlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halit\Desktop\Kurslar\C#\Class\İnsanlar\İnsanlar\obj\Debug\net8.0\İnsanlar.AssemblyInfoInputs.cache
+C:\Users\Halit\Desktop\Kurslar\C#\Class\İnsanlar\İnsanlar\obj\Debug\net8.0\İnsanlar.AssemblyInfo.cs
+C:\Users\Halit\Desktop\Kurslar\C#\Class\İnsanlar\İnsanlar\obj\Debug\net8.0\İnsanlar.csproj.CoreCompileInputs.cache
+C:\Users\Halit\Desktop\Kurslar\C#\Class\İnsanlar\İnsanlar\obj\Debug\net8.0\İnsanlar.dll
+C:\Users\Halit\Desktop\Kurslar\C#\Class\İnsanlar\İnsanlar\obj\Debug\net8.0\refint\İnsanlar.dll
+C:\Users\Halit\Desktop\Kurslar\C#\Class\İnsanlar\İnsanlar\obj\Debug\net8.0\İnsanlar.pdb
+C:\Users\Halit\Desktop\Kurslar\C#\Class\İnsanlar\İnsanlar\obj\Debug\net8.0\İnsanlar.genruntimeconfig.cache
+C:\Users\Halit\Desktop\Kurslar\C#\Class\İnsanlar\İnsanlar\obj\Debug\net8.0\ref\İnsanlar.dll
